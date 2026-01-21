@@ -32,10 +32,7 @@ A React-based dashboard to visualize spatial and tabular project data with map i
 - Marker click updates table selection.
 
 ## Time Spent
-- Setup & data modeling: 1.5 hrs
-- Table & performance handling: 2 hrs
-- Map integration & sync: 1.5 hrs
-- Polish & README: 1 hr  
+
 **Total: ~6 hours**
 
 ## Notes
