@@ -1,5 +1,17 @@
 # Geo Data Dashboard (Interview Assignment)
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Row & Marker Selection Sync
+![Row Selection](screenshots/row-selected.png)
+
+### Client-side Filtering
+![Filtering](screenshots/filter-search.png)
+
+
 ## Objective
 A React-based dashboard to visualize spatial and tabular project data with map integration.
 
